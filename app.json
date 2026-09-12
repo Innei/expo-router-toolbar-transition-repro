@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Toolbar Repro",
+    "slug": "toolbar-repro",
+    "scheme": "toolbar-repro",
+    "platforms": ["ios"],
+    "ios": { "bundleIdentifier": "dev.innei.toolbarrepro" },
+    "plugins": ["expo-router"]
+  }
+}
